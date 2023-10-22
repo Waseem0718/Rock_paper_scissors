@@ -3,7 +3,6 @@
 import random
 
 choices = ['rock', 'paper', 'scissor']
-
 def computer_choice():
     return random.choice(choices)
 
